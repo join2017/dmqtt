@@ -2,17 +2,26 @@
  QQ: 394251165 
   
  Develop IDE Delphi 10.2 Version 25.0.26309.314 
+
 **Features**
+
 * [MQTT v3.1 - V3.1.1 compliant](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
+
 
 **Future**
 SSL
+
 android
 
+IOS
+
+DLL/.So
 
 
-socket api use  Delphi-Cross-Socket 
+socket api use  Delphi-Cross-Socket
+
  WiNDDRiVER(soulawing@gmail.com)
+
  https://github.com/winddriver/Delphi-Cross-Socket.git
 
 
