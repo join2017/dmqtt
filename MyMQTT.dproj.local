@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/05 08:04:53.000.962,C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\MyMQTT.dproj=C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\TMQTTTest.dproj</Transaction>
+    <Transaction>2017/07/06 14:13:14.000.379,=C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\Unit1.pas</Transaction>
+    <Transaction>2017/07/06 14:13:41.000.524,C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\TMQTT\CnContainers.pas=C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\Unit1.pas</Transaction>
+    <Transaction>2017/07/06 16:48:09.000.002,=C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\Unit1.pas</Transaction>
+    <Transaction>2017/07/06 16:48:25.000.000,C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\TMQTT\AtomQueue.pas=C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\Unit1.pas</Transaction>
+    <Transaction>2017/07/06 16:57:28.000.095,C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\TMQTT\CnContainers.pas=</Transaction>
+    <Transaction>2017/07/10 17:47:35.000.519,C:\Users\join\Desktop\10.2-Project\Delphi-TMQTT2\TMQTT\MQTTReadThread.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
