@@ -1,5 +1,5 @@
   
- QQ: 394251165 
+ mail: 394251165@qq.com
   
  Develop IDE Delphi 10.2 Version 25.0.26309.314 
 
@@ -104,4 +104,3 @@ end;
 
 ```
 
-Contact information: 394251165@qq.com
